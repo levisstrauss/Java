@@ -173,7 +173,7 @@ public class Fundamentals {
         }
 
 
-        //----------- Built your java code  ----------------->
+        //----------- Packing your java code  ----------------->
         /*
           File -> Project Structure -> Artifacts -> + -> JAR -> From modules with dependencies
             -> Main class -> OK -> Apply -> OK
